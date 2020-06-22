@@ -1,0 +1,12 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "-Wall -Wno-INCABSPATH -Wno-DECLFILENAME -Wno-fatal --cc SimpleALU.v --exe SimpleALU_driver.cpp --top-module SimpleALU"
+S   7484256   399139  1591763996   560304410  1581264640           0 "/usr/bin/verilator_bin"
+S      5959  1838499  1592859316   542053653  1592859316   542053653 "SimpleALU.v"
+T      7570  1845813  1592859316   650056653  1592859316   650056653 "obj_dir/VSimpleALU.cpp"
+T      2862  1845801  1592859316   650056653  1592859316   650056653 "obj_dir/VSimpleALU.h"
+T      1844  1847090  1592859316   650056653  1592859316   650056653 "obj_dir/VSimpleALU.mk"
+T       559  1843249  1592859316   650056653  1592859316   650056653 "obj_dir/VSimpleALU__Syms.cpp"
+T       809  1845796  1592859316   650056653  1592859316   650056653 "obj_dir/VSimpleALU__Syms.h"
+T       240  1847375  1592859316   650056653  1592859316   650056653 "obj_dir/VSimpleALU__ver.d"
+T         0        0  1592859316   650056653  1592859316   650056653 "obj_dir/VSimpleALU__verFiles.dat"
+T      1253  1845866  1592859316   650056653  1592859316   650056653 "obj_dir/VSimpleALU_classes.mk"
